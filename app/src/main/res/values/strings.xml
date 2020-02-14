@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fatec_ipi_noite_hello_world</string>
+    <string name="welcome">Welcome to Android App Development</string>
+    <string name="deitel_logo">Deitels bugs double thumbs up</string>
+</resources>
